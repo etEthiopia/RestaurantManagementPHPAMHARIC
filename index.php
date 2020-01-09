@@ -3,11 +3,11 @@
 ?>
 <!doctype html>
 <html>
-<?php include ('inc/header.php'); ?>
+<?php include ('inc/headeri.php'); ?>
 
 <body>
 
-<?php include ('inc/navigation.php'); ?>
+<?php include ('inc/navigationi.php'); ?>
 <section id="home" class="main">
 	  <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
   <div class="carousel-inner">
@@ -88,6 +88,6 @@
 	</div>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.561169861865!2d38.78077!3d9.012463799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b850ae64c4d6b%3A0x9033ebb50d2f3734!2sEnat+Restaurant!5e0!3m2!1sen!2set!4v1529572814265" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
 </section>
-<?php include('inc/footer.php') ?>
+<?php include('inc/footeri.php') ?>
 </body>
 </html>
